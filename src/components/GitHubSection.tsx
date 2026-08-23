@@ -6,7 +6,7 @@ import { personalInfo } from '../data/portfolioData';
 export const GitHubSection: React.FC = () => {
   const [copied, setCopied] = useState(false);
 
-  const cloneCommand = `git clone https://github.com/Latika-04/portfolio.git`;
+  const cloneCommand = `git clone https://github.com/Latika-04/latika-portfoliowebdeveloper.git`;
 
   const handleCopy = () => {
     navigator.clipboard.writeText(cloneCommand);
@@ -169,7 +169,7 @@ export const GitHubSection: React.FC = () => {
                   {/* Terminal Shell Body */}
                   <div className="p-6 text-[#faf6ee] space-y-4 leading-relaxed">
                     <div>
-                      <span className="text-[#a82438] font-bold">latika@dev-station:~$</span> <span className="text-[#faf6ee]">git clone https://github.com/Latika-04/portfolio.git</span>
+                      <span className="text-[#a82438] font-bold">latika@dev-station:~$</span> <span className="text-[#faf6ee]">git clone https://github.com/Latika-04/latika-portfoliowebdeveloper.git</span>
                       <p className="text-[#c49a9e] text-[11px] mt-1">Cloning into 'portfolio'... done.</p>
                     </div>
 

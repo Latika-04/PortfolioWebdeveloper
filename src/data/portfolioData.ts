@@ -232,7 +232,7 @@ export const projects: ProjectItem[] = [
       'Designed and built a responsive, reusable portfolio website using HTML5, CSS3 and JavaScript, implementing interactive UI components for enhanced user engagement.',
       'Optimized layout and styling for cross-device compatibility, improving usability across desktop and mobile browsers.',
     ],
-    githubUrl: 'https://github.com/Latika-04/portfolio',
+    githubUrl: 'https://github.com/Latika-04/latika-portfoliowebdeveloper',
     type: 'frontend',
     stats: [
       { label: 'Responsive', value: 'Mobile First' },
@@ -251,7 +251,7 @@ export const projects: ProjectItem[] = [
       'Architected and delivered scalable, modular REST APIs from scratch using Python and FastAPI for model training and disease-risk inference across multiple simulated client nodes.',
       'Designed data preprocessing and feature engineering pipelines, testing and tuning models to raise prediction accuracy to approximately 85%.',
     ],
-    githubUrl: 'https://github.com/Latika-04/healthcare-risk-prediction',
+    githubUrl: 'https://github.com/Latika-04/nfhis',
     type: 'ai-ml',
     stats: [
       { label: 'Accuracy', value: '~85%' },

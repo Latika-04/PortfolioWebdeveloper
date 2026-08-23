@@ -85,7 +85,7 @@ export const Projects: React.FC = () => {
                 <div className="flex items-center gap-2">
                   <a
                     id="project-01-view-source"
-                    href="https://github.com/Latika-04/portfolio"
+                    href="https://github.com/Latika-04/latika-portfoliowebdeveloper"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="px-4 py-2 rounded-lg bg-[#faf6ee] hover:bg-[#ffffff] text-[#1a060a] font-mono text-xs font-bold flex items-center gap-1.5 transition-all shadow-md active:scale-95 cursor-pointer"
@@ -175,7 +175,7 @@ export const Projects: React.FC = () => {
                       </div>
 
                       <div className="flex items-center gap-1 bg-[#170508] px-2 py-0.5 rounded border border-[#3d0d16] text-[10px] font-mono text-[#c49a9e]">
-                        <span>https://github.com/Latika-04/PortfolioWebdeveloper</span>
+                        <span>https://github.com/Latika-04/latika-portfoliowebdeveloperWebdeveloper</span>
                       </div>
 
                       {/* Device switcher */}
@@ -242,7 +242,7 @@ export const Projects: React.FC = () => {
                       <div className="pt-4 border-t border-[#ded3c1] flex items-center justify-between text-[10px] font-mono text-[#7d1a2c]">
                         <span>STATUS: REPOSITORY COMPLETE</span>
                         <a
-                          href="https://github.com/Latika-04/portfolio"
+                          href="https://github.com/Latika-04/latika-portfoliowebdeveloper"
                           target="_blank"
                           rel="noopener noreferrer"
                           className="font-bold underline hover:text-[#1a060a]"
@@ -455,7 +455,7 @@ export const Projects: React.FC = () => {
 
                   <div className="pt-2">
                     <a
-                      href="https://github.com/Latika-04/healthcare-risk-prediction"
+                      href="https://github.com/Latika-04/nfhis"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="w-full py-3 rounded-lg bg-[#380b14] hover:bg-[#52101e] text-[#faf6ee] border border-[#6b1422] text-xs font-mono font-bold flex items-center justify-center gap-2 transition-colors cursor-pointer"
