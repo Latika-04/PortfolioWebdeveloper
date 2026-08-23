@@ -175,7 +175,7 @@ export const Projects: React.FC = () => {
                       </div>
 
                       <div className="flex items-center gap-1 bg-[#170508] px-2 py-0.5 rounded border border-[#3d0d16] text-[10px] font-mono text-[#c49a9e]">
-                        <span>https://latika-04.github.io/portfolio</span>
+                        <span>https://github.com/Latika-04/PortfolioWebdeveloper</span>
                       </div>
 
                       {/* Device switcher */}
@@ -339,7 +339,7 @@ export const Projects: React.FC = () => {
                 <div className="flex items-center gap-2">
                   <a
                     id="project-02-view-source"
-                    href="https://github.com/Latika-04/healthcare-risk-prediction"
+                    href="https://github.com/Latika-04/nfhis"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="px-4 py-2 rounded-lg bg-[#faf6ee] hover:bg-[#ffffff] text-[#1a060a] font-mono text-xs font-bold flex items-center gap-1.5 transition-all shadow-md active:scale-95 cursor-pointer"
