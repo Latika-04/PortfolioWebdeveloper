@@ -6,4 +6,4 @@ venv/
 README.md 
 bun.lock
 metadata.json 
-index.html
+.gitignore
