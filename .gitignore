@@ -1,0 +1,9 @@
+node_modules/
+assets/
+venv/
+.env.example
+.env
+README.md 
+bun.lock
+metadata.json 
+index.html
